@@ -1,0 +1,6 @@
+read -p "enter username" username
+echo " "
+read -sp "enter password" password
+echo " "
+echo "username is: $username"
+echo "password is: $password"
