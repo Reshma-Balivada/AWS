@@ -108,3 +108,61 @@ nano disk_usage.sh
 chmod +x disk_usage.sh
 nano disk_usage.sh
 chmod +x disk_usage.sh
+yum install git -y
+sudo yum install git -y
+git --version
+git init
+vi file1
+git add
+git add .
+git init
+git status
+git commit -m "first commit from git to branch master"
+git branch
+git log
+git remote -v
+git show
+git push origin master
+git log
+git remote add origin https://github.com/Reshma-Balivada/AWS.git
+git push origin master
+cat file1
+git pull origin master
+cat file1
+git --version
+git config 
+git config Reshma-Balivada
+git config --global user.name "Reshma-Balivada"
+git config --global user.email "reshmabalivada0807@gmail.com"
+git config --list
+vi practice-git
+git init practice-git
+rm practice-git
+ls --la
+ls
+mkdir practice-git
+cd practice-git
+git init
+git branch
+cd ..
+cd dira
+cd ..
+cd ~
+cd practice-git
+vi hello.txt
+ls
+git add hello.txt
+git commit -m "second commit"
+git remote add origin https://github.com/Reshma-Balivada/AWS.git
+git push -u origin master
+git pull origin master --allow-unrelated-histories
+git pull origin master --allow-unrelated-histories --no-rebase
+git push -u origin master
+vi hello.txt
+git status
+git add hello.txt
+git commit -m "updated hello.txt with practice line"
+git push origin master
+git remote -v
+git branch
+git log --oneline

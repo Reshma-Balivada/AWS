@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1758252272,,"wq!"
 :wq
-|2,0,1757916837,,"wq"
+|2,0,1757955179,,"wq"
 :q
 |2,0,1757658630,,"q"
-:wq!
-|2,0,1757658246,,"wq!"
 :Q
 |2,0,1757398805,,"Q"
 
@@ -31,230 +31,258 @@
 # Registers:
 
 # File marks:
-'0  1  27  ~/file1
-|4,48,1,27,1757916837,"~/file1"
-'1  1  11  ~/greeting.txt
-|4,49,1,11,1757690891,"~/greeting.txt"
-'2  22  0  ~/rwxloop.sh
-|4,50,22,0,1757658630,"~/rwxloop.sh"
-'3  1  4  ~/check_process.sh
-|4,51,1,4,1757658487,"~/check_process.sh"
-'4  1  0  ~/check_process.sh
-|4,52,1,0,1757658468,"~/check_process.sh"
-'5  1  4  ~/check_process.sh
-|4,53,1,4,1757658431,"~/check_process.sh"
-'6  1  4  ~/check_process.sh
-|4,54,1,4,1757658431,"~/check_process.sh"
-'7  7  1  ~/check_process.sh
-|4,55,7,1,1757658381,"~/check_process.sh"
-'8  7  1  ~/check_process.sh
-|4,56,7,1,1757658381,"~/check_process.sh"
-'9  7  1  ~/check_process.sh
-|4,57,7,1,1757658381,"~/check_process.sh"
+'0  2  0  ~/filer
+|4,48,2,0,1758252272,"~/filer"
+'1  2  26  ~/practice-git/hello.txt
+|4,49,2,26,1757955179,"~/practice-git/hello.txt"
+'2  6  0  ~/practice-git/.git/MERGE_MSG
+|4,50,6,0,1757955055,"~/practice-git/.git/MERGE_MSG"
+'3  1  28  ~/practice-git/hello.txt
+|4,51,1,28,1757954618,"~/practice-git/hello.txt"
+'4  1  28  ~/practice-git/hello.txt
+|4,52,1,28,1757954618,"~/practice-git/hello.txt"
+'5  1  68  ~/practice-git
+|4,53,1,68,1757954354,"~/practice-git"
+'6  1  27  ~/file1
+|4,54,1,27,1757916837,"~/file1"
+'7  1  11  ~/greeting.txt
+|4,55,1,11,1757690891,"~/greeting.txt"
+'8  22  0  ~/rwxloop.sh
+|4,56,22,0,1757658630,"~/rwxloop.sh"
+'9  1  4  ~/check_process.sh
+|4,57,1,4,1757658487,"~/check_process.sh"
 
 # Jumplist (newest first):
+-'  2  0  ~/filer
+|4,39,2,0,1758252272,"~/filer"
+-'  1  0  ~/filer
+|4,39,1,0,1758252256,"~/filer"
+-'  2  26  ~/practice-git/hello.txt
+|4,39,2,26,1757955179,"~/practice-git/hello.txt"
+-'  2  26  ~/practice-git/hello.txt
+|4,39,2,26,1757955179,"~/practice-git/hello.txt"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757955149,"~/practice-git/hello.txt"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757955149,"~/practice-git/hello.txt"
+-'  6  0  ~/practice-git/.git/MERGE_MSG
+|4,39,6,0,1757955055,"~/practice-git/.git/MERGE_MSG"
+-'  6  0  ~/practice-git/.git/MERGE_MSG
+|4,39,6,0,1757955055,"~/practice-git/.git/MERGE_MSG"
+-'  6  0  ~/practice-git/.git/MERGE_MSG
+|4,39,6,0,1757955055,"~/practice-git/.git/MERGE_MSG"
+-'  6  0  ~/practice-git/.git/MERGE_MSG
+|4,39,6,0,1757955055,"~/practice-git/.git/MERGE_MSG"
+-'  1  0  ~/practice-git/.git/MERGE_MSG
+|4,39,1,0,1757954993,"~/practice-git/.git/MERGE_MSG"
+-'  1  0  ~/practice-git/.git/MERGE_MSG
+|4,39,1,0,1757954993,"~/practice-git/.git/MERGE_MSG"
+-'  1  0  ~/practice-git/.git/MERGE_MSG
+|4,39,1,0,1757954993,"~/practice-git/.git/MERGE_MSG"
+-'  1  0  ~/practice-git/.git/MERGE_MSG
+|4,39,1,0,1757954993,"~/practice-git/.git/MERGE_MSG"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757954618,"~/practice-git/hello.txt"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757954618,"~/practice-git/hello.txt"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757954618,"~/practice-git/hello.txt"
+-'  1  28  ~/practice-git/hello.txt
+|4,39,1,28,1757954618,"~/practice-git/hello.txt"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  68  ~/practice-git
+|4,39,1,68,1757954354,"~/practice-git"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
+-'  1  27  ~/file1
+|4,39,1,27,1757916837,"~/file1"
 -'  1  27  ~/file1
 |4,39,1,27,1757916837,"~/file1"
 -'  1  11  ~/greeting.txt
 |4,39,1,11,1757690891,"~/greeting.txt"
 -'  1  11  ~/greeting.txt
 |4,39,1,11,1757690891,"~/greeting.txt"
--'  22  0  ~/rwxloop.sh
-|4,39,22,0,1757658630,"~/rwxloop.sh"
--'  22  0  ~/rwxloop.sh
-|4,39,22,0,1757658630,"~/rwxloop.sh"
--'  22  0  ~/rwxloop.sh
-|4,39,22,0,1757658630,"~/rwxloop.sh"
--'  22  0  ~/rwxloop.sh
-|4,39,22,0,1757658630,"~/rwxloop.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658487,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658468,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  1  4  ~/check_process.sh
-|4,39,1,4,1757658431,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658419,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658381,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  7  1  ~/check_process.sh
-|4,39,7,1,1757658246,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  0  ~/check_process.sh
-|4,39,1,0,1757658123,"~/check_process.sh"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
--'  1  37  ~/testfile.txt
-|4,39,1,37,1757657760,"~/testfile.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
+-'  1  11  ~/greeting.txt
+|4,39,1,11,1757690891,"~/greeting.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/filer
+	*	1758252271	0
+	"	2	0
+	^	2	0
+	.	1	33
+	+	1	33
+
+> ~/practice-git/hello.txt
+	*	1757955177	0
+	"	2	26
+	^	2	29
+	.	2	28
+	+	1	28
+	+	3	0
+	+	2	28
+
+> ~/practice-git/.git/MERGE_MSG
+	*	1757955052	0
+	"	6	0
+	^	6	0
+
+> ~/practice-git
+	*	1757954353	0
+	"	1	68
+	^	1	69
+	.	1	68
+	+	1	68
 
 > ~/file1
 	*	1757916835	0
